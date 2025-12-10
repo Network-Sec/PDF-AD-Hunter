@@ -37,7 +37,6 @@ $ python3 pdf_ad_hunter.py .
 [*] Target: 0002_de.pdf
     |-- [OBJ] Software: Adobe InDesign CC 2017 (Macintosh)
     |-- [XML] Creator Tool: Adobe InDesign CC 2017 (Macintosh)
-    |-- [YELLOW] No significant artifacts found.
 
 [*] Target: 0002_de.pdf
     |-- [RAW] UNC Path: \\\\\\\347\347\347888...\272\272\272\270\270
